@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "author": "Neal Granger <neal@nealg.com>",
   "description": "Inject build information into your [webpack] build.",
-  "main": "buld-info.webpack.config.js",
+  "main": "build-info.webpack.config.js",
   "scripts": {
     "prepublish": "./node_modules/.bin/babel -s -d . src",
     "lint": "./node_modules/.bin/eslint src",
