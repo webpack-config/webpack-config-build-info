@@ -1,6 +1,6 @@
 {
   "name": "webpack-config-build-info",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Neal Granger <neal@nealg.com>",
   "description": "Inject build information into your [webpack] build.",
   "main": "build-info.webpack.config.js",
